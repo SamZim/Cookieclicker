@@ -1,4 +1,4 @@
-class Gamestate {
+export class Gamestate {
   constructor() {
     this.cps = 0
     this.score = 0

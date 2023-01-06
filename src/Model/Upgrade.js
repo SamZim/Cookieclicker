@@ -1,4 +1,4 @@
-class Upgrade {
+export class Upgrade {
   constructor(modifier, cost, name, type, id) {
     this.modifier = modifier
     this.cost = cost

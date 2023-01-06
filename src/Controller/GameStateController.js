@@ -1,4 +1,6 @@
-class GamestateController {
+import { Gamestate } from '../Model/Gamestate'
+
+export class GamestateController {
   constructor() {
     this.gamestate = new Gamestate()
     this.startGame()
