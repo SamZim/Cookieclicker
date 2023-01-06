@@ -1,4 +1,4 @@
-class UpgradeController {
+export class UpgradeController {
   constructor(gamestate) {
     this.gamestate = gamestate
   }

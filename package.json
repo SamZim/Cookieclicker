@@ -1,11 +1,13 @@
 {
   "name": "cookieclicker",
-  "version": "0.0.2",
-  "description": "Cookie clicker",
-  "main": "mainjs.js",
-  "repository": "https://github.com/SamZim/Cookieclicker.git",
-  "author": "SamZim",
-  "license": "MIT",
+  "private": false,
+  "version": "0.0.1",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
   "devDependencies": {
     "@babel/cli": "^7.20.7",
     "@babel/core": "^7.20.12",
@@ -18,6 +20,7 @@
     "eslint-plugin-prettier": "^4.2.1",
     "jest": "^29.3.1",
     "jest-cli": "^29.3.1",
-    "prettier": "^2.8.1"
+    "prettier": "^2.8.1",
+    "vite": "^4.0.0"
   }
 }
