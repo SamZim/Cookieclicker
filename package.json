@@ -5,5 +5,19 @@
   "main": "mainjs.js",
   "repository": "https://github.com/SamZim/Cookieclicker.git",
   "author": "SamZim",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/cli": "^7.20.7",
+    "@babel/core": "^7.20.12",
+    "@babel/node": "^7.20.7",
+    "@babel/preset-env": "^7.20.2",
+    "eslint": "^8.31.0",
+    "eslint-config-prettier": "^8.6.0",
+    "eslint-plugin-jest": "^27.2.1",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-prettier": "^4.2.1",
+    "jest": "^29.3.1",
+    "jest-cli": "^29.3.1",
+    "prettier": "^2.8.1"
+  }
 }
