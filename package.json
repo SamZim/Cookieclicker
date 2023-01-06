@@ -1,0 +1,9 @@
+{
+  "name": "cookieclicker",
+  "version": "0.0.2",
+  "description": "Cookie clicker",
+  "main": "mainjs.js",
+  "repository": "https://github.com/SamZim/Cookieclicker.git",
+  "author": "SamZim",
+  "license": "MIT"
+}
